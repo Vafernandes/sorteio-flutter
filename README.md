@@ -1,16 +1,9 @@
 # sorteio
 
-A new Flutter project.
+* Neste APP, você digita o que quiser sortear, pessoas, coisas, objetos, etc...
 
-## Getting Started
+* Ele foi criado por uma necessidade que tive uma vez, estava em uma roda de amigos e precisávamos sortear algo, então a necessidade fez a causa...
 
-This project is a starting point for a Flutter application.
+O resultado da brincadeira foi esse:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt Text](gif/gif.gif)
